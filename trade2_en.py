@@ -4,8 +4,8 @@ import requests
 import time
 
 # ====================== Configuration (Replace with your testnet keys) ======================
-TEST_API_KEY = "8IRAEyYeSeChN3wYPFZFS8f7xLzK4xwLn1uM3Vhdb7RhMBrkGRuTf61BZCRwH4Xh"
-TEST_SECRET_KEY = "qCJEZniuc6Rsy9XzDFC2DJn9iY8cFtSvPwQbsbJmuqH5JQ4z3AJ9fb94RM6vhOFG"
+TEST_API_KEY = "***"
+TEST_SECRET_KEY = "***"
 SYMBOL = "BTCUSDT"  # BTC/USDT trading pair (more widely available)
 TESTNET_FUND_URL = "https://testnet.binance.vision/faucet/spot"  # Testnet fund claiming interface
 
